@@ -1,4 +1,5 @@
-Oiê! Meu nome é Kássia :heart:!
+Oiê! 
+Meu nome é Kássia :heart: :notebook:!
 <div>
   <a href="https://github.com/kassiaMachado">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=kassiaMachado&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
